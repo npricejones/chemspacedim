@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import LogNorm
+fs = 20
 
 def histogram2d(x,y,bins=100):
     """
